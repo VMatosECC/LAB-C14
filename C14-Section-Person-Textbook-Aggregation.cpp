@@ -1,6 +1,6 @@
 
 // C14-Course-Person-Textbook.cpp 
-
+// Implement and test the Textbook, Person, and Section classes
 #include <iostream>
 #include <sstream>
 #include <string>
